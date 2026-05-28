@@ -2,7 +2,7 @@
   "name": "mantis-extension",
   "displayName": "Mantis",
   "version": "1.0.0",
-  "description": "A minimal Bloomberg-style market dashboard for Chrome.",
+  "description": "A lightweight market dashboard extension for Google Chrome",
   "author": "Mantis",
   "private": true,
   "type": "module",
